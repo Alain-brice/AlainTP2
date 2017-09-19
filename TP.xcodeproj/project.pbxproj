@@ -54,14 +54,22 @@
 		9B8E32C51F6B1F4300AD8326 /* TP */ = {
 			isa = PBXGroup;
 			children = (
+				9B8E32D81F6B1F5C00AD8326 /* Assets */,
 				9B8E32C61F6B1F4300AD8326 /* AppDelegate.swift */,
 				9B8E32C81F6B1F4300AD8326 /* ViewController.swift */,
 				9B8E32CA1F6B1F4300AD8326 /* Main.storyboard */,
+			);
+			path = TP;
+			sourceTree = "<group>";
+		};
+		9B8E32D81F6B1F5C00AD8326 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
 				9B8E32CD1F6B1F4300AD8326 /* Assets.xcassets */,
 				9B8E32CF1F6B1F4300AD8326 /* LaunchScreen.storyboard */,
 				9B8E32D21F6B1F4300AD8326 /* Info.plist */,
 			);
-			path = TP;
+			name = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
