@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B094CCE1F854FC300F7CC04 /* refresh1600.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B094CCD1F854FC300F7CC04 /* refresh1600.png */; };
 		9B5C5C431F76E27000758197 /* Fichier 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5C5C421F76E27000758197 /* Fichier 1.png */; };
 		9B5C5C451F76E27E00758197 /* Fichier 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5C5C441F76E27E00758197 /* Fichier 2.png */; };
 		9B5C5C471F76E28B00758197 /* Fichier 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B5C5C461F76E28B00758197 /* Fichier 3.png */; };
@@ -22,9 +23,11 @@
 		9B8E32CC1F6B1F4300AD8326 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B8E32CA1F6B1F4300AD8326 /* Main.storyboard */; };
 		9B8E32CE1F6B1F4300AD8326 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B8E32CD1F6B1F4300AD8326 /* Assets.xcassets */; };
 		9B8E32D11F6B1F4300AD8326 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B8E32CF1F6B1F4300AD8326 /* LaunchScreen.storyboard */; };
+		9BD51CDB1F83D35400F9FE44 /* page d'acceuille1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD51CDA1F83D35400F9FE44 /* page d'acceuille1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B094CCD1F854FC300F7CC04 /* refresh1600.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = refresh1600.png; path = ../../../../../../../Desktop/refresh1600.png; sourceTree = "<group>"; };
 		9B5C5C421F76E27000758197 /* Fichier 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Fichier 1.png"; path = "images/Safari-theme-with-wild-animals-in-the-field-illustration/Fichier 1.png"; sourceTree = SOURCE_ROOT; };
 		9B5C5C441F76E27E00758197 /* Fichier 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Fichier 2.png"; path = "images/Safari-theme-with-wild-animals-in-the-field-illustration/Fichier 2.png"; sourceTree = SOURCE_ROOT; };
 		9B5C5C461F76E28B00758197 /* Fichier 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Fichier 3.png"; path = "images/Safari-theme-with-wild-animals-in-the-field-illustration/Fichier 3.png"; sourceTree = SOURCE_ROOT; };
@@ -42,6 +45,7 @@
 		9B8E32CD1F6B1F4300AD8326 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B8E32D01F6B1F4300AD8326 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B8E32D21F6B1F4300AD8326 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BD51CDA1F83D35400F9FE44 /* page d'acceuille1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "page d'acceuille1.png"; path = "images/Safari-theme-with-wild-animals-in-the-field-illustration/page d'acceuille1.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 		9BC32FF91F71717500262B3E /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				9B094CCD1F854FC300F7CC04 /* refresh1600.png */,
+				9BD51CDA1F83D35400F9FE44 /* page d'acceuille1.png */,
 				9B5C5C581F76EC9F00758197 /* Artboard 11.png */,
 				9B5C5C421F76E27000758197 /* Fichier 1.png */,
 				9B5C5C441F76E27E00758197 /* Fichier 2.png */,
@@ -171,6 +177,7 @@
 			files = (
 				9B5C5C471F76E28B00758197 /* Fichier 3.png in Resources */,
 				9B5C5C431F76E27000758197 /* Fichier 1.png in Resources */,
+				9BD51CDB1F83D35400F9FE44 /* page d'acceuille1.png in Resources */,
 				9B5C5C4B1F76E2B400758197 /* Fichier 5.png in Resources */,
 				9B8E32D11F6B1F4300AD8326 /* LaunchScreen.storyboard in Resources */,
 				9B5C5C451F76E27E00758197 /* Fichier 2.png in Resources */,
@@ -180,6 +187,7 @@
 				9B5C5C4D1F76E2C300758197 /* Fichier 6.png in Resources */,
 				9B8E32CE1F6B1F4300AD8326 /* Assets.xcassets in Resources */,
 				9B5C5C571F76E30600758197 /* jeux.png in Resources */,
+				9B094CCE1F854FC300F7CC04 /* refresh1600.png in Resources */,
 				9B8E32CC1F6B1F4300AD8326 /* Main.storyboard in Resources */,
 				9B5C5C511F76E2DB00758197 /* Fichier 8.png in Resources */,
 			);
